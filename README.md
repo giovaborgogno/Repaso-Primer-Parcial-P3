@@ -12,6 +12,10 @@ List<int> miLista;
 Stack<unsigned int> miPila;  
 eliminar_desde_pila(miPila, miLista);  
 
+Lista ejemplo: 2->4->6->8->9->3  
+Pila ejemplo: 2->5  
+Nueva Lista:   2->6->8->9
+
 ## Ejercicio N°2
 
 Escriba una función void recursiva que reciba como parámetro solo un
@@ -44,6 +48,9 @@ List<int> miLista;
 ...  
 miLista.moverPri(8);
 
+Lista Ejemplo: 2->4->6->8->9->3  
+Nueva Lista: 8->2->4->6->9->3
+
 ## Ejercicio N°5
 
 Hacer una función que dada una frase ingresada por teclado la imprima
@@ -67,6 +74,9 @@ List<int> miLista;
 ...  
 miLista.moverUlti(8);
 
+Lista Ejemplo: 2->4->6->8->9->3  
+Nueva Lista: 2->4->6->9->3->8
+
 
 ## Ejercicio N°7
 
@@ -88,6 +98,7 @@ void List::size(){};
 ...  
 List<int> miLista;  
 ...  
+// Lista Ejemplo: 2->4->6->8->9->3  
 cout << miLista.size(); // Muestra 6
 
 ## Ejercicio N°9
@@ -101,3 +112,6 @@ void invertir(Queue<T> q){};
 Queue<int> miQueue;  
 ...  
 invertir(miQueue);
+
+Cola Ejemplo: 2->4->6->8  
+Nueva Cola: 8->6->4->2
