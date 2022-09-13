@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.23)
+project(PracticaParcial1)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Ej-01 Ej-01/main.cpp)
+add_executable(Ej-02 Ej-02/main.cpp)
+add_executable(Ej-03 Ej-03/main.cpp)
+add_executable(Ej-04 Ej-04/main.cpp)
+add_executable(Ej-05 Ej-05/main.cpp)
+add_executable(Ej-06 Ej-06/main.cpp)
+add_executable(Ej-07 Ej-07/main.cpp)
+add_executable(Ej-08 Ej-08/main.cpp)
+add_executable(Ej-09 Ej-09/main.cpp)
+add_executable(Test ClasesPrincipales/test.cpp)

@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PracticaParcial1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej-01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej-01-Debug-9144787df640ebfb04b4.json",
+					"name" : "Ej-01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej-02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej-02-Debug-520e3859a3bbdf740e9a.json",
+					"name" : "Ej-02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej-03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej-03-Debug-d0acadb30995931a4eb0.json",
+					"name" : "Ej-03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej-04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej-04-Debug-fc2d4f0e7d3c13d0b5b5.json",
+					"name" : "Ej-04",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej-05::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej-05-Debug-8c62fa71afd168506a47.json",
+					"name" : "Ej-05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej-06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej-06-Debug-fa944db1eada99c2e67c.json",
+					"name" : "Ej-06",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej-07::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej-07-Debug-3f13ae4133fe9f8c07a7.json",
+					"name" : "Ej-07",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej-08::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej-08-Debug-329923271a7c6df317c2.json",
+					"name" : "Ej-08",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej-09::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej-09-Debug-a6a69885a14a8f4d2f09.json",
+					"name" : "Ej-09",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Test-Debug-732abf31a2ded52c2a9f.json",
+					"name" : "Test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jpbor/CLionProjects/PracticaParcial1/cmake-build-debug",
+		"source" : "C:/Users/jpbor/CLionProjects/PracticaParcial1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

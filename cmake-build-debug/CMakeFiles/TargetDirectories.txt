@@ -1,0 +1,12 @@
+C:/Users/jpbor/CLionProjects/PracticaParcial1/cmake-build-debug/CMakeFiles/Ej-01.dir
+C:/Users/jpbor/CLionProjects/PracticaParcial1/cmake-build-debug/CMakeFiles/Ej-02.dir
+C:/Users/jpbor/CLionProjects/PracticaParcial1/cmake-build-debug/CMakeFiles/Ej-03.dir
+C:/Users/jpbor/CLionProjects/PracticaParcial1/cmake-build-debug/CMakeFiles/Ej-04.dir
+C:/Users/jpbor/CLionProjects/PracticaParcial1/cmake-build-debug/CMakeFiles/Ej-05.dir
+C:/Users/jpbor/CLionProjects/PracticaParcial1/cmake-build-debug/CMakeFiles/Ej-06.dir
+C:/Users/jpbor/CLionProjects/PracticaParcial1/cmake-build-debug/CMakeFiles/Ej-07.dir
+C:/Users/jpbor/CLionProjects/PracticaParcial1/cmake-build-debug/CMakeFiles/Ej-08.dir
+C:/Users/jpbor/CLionProjects/PracticaParcial1/cmake-build-debug/CMakeFiles/Ej-09.dir
+C:/Users/jpbor/CLionProjects/PracticaParcial1/cmake-build-debug/CMakeFiles/Test.dir
+C:/Users/jpbor/CLionProjects/PracticaParcial1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jpbor/CLionProjects/PracticaParcial1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
